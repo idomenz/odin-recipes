@@ -1,0 +1,35 @@
+.head {
+font-size: 48px;
+color: rgb(255, 255, 255);
+text-align: center;
+font-weight: bolder;
+background-color: rgb(138, 138, 138)    ;
+font-family:cursive ;
+}
+
+button{
+    color: rgb(10, 10, 10);
+    font-size: 36px;
+    background-color: rgb(50, 189, 199);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header{
+color: rgb(146, 91, 91);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-family: cursive;
+
+}
+
+img {
+    height:auto;
+    width: 800px;
+}
+
+li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
